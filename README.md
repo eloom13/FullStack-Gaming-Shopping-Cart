@@ -59,31 +59,13 @@ The topic of my graduation project in 2022 is a web application for the sale of 
 ![Picture1](https://github.com/eloom13/Fullstack-Gaming-Shopping-Cart/assets/116904225/c1da3e22-977d-489c-9641-151c3d06bd73)
 
 
-### Prerequisites
+### Creating Account
+![Screenshot_1](https://github.com/eloom13/Fullstack-Gaming-Shopping-Cart/assets/116904225/4069303c-8925-47a9-bae8-8e7c4e3588b9)
 
-This is an example of how to list things you need to use the software and how to install them.
-* npm
-  ```sh
-  npm install npm@latest -g
-  ```
+If your registration is successful you will get automatic EMAIL.
 
-### Installation
+![Screenshot_2](https://github.com/eloom13/Fullstack-Gaming-Shopping-Cart/assets/116904225/49a58d43-b244-44c3-9fc7-b84129225035)
 
-_Below is an example of how you can instruct your audience on installing and setting up your app. This template doesn't rely on any external dependencies or services._
-
-1. Get a free API Key at [https://example.com](https://example.com)
-2. Clone the repo
-   ```sh
-   git clone https://github.com/your_username_/Project-Name.git
-   ```
-3. Install NPM packages
-   ```sh
-   npm install
-   ```
-4. Enter your API in `config.js`
-   ```js
-   const API_KEY = 'ENTER YOUR API';
-   ```
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
