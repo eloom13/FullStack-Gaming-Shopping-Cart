@@ -57,7 +57,7 @@ The topic of my graduation project in 2022 is a web application for the sale of 
 ## Database - EER Diagaram
 
 <p align="center">
-  <img width="200" src="[http://material-bread.org/logo-shadow.svg](https://github.com/eloom13/Fullstack-Gaming-Shopping-Cart/assets/116904225/c1da3e22-977d-489c-9641-151c3d06bd73)" alt="Material Bread logo">
+  <img width="200" src="(https://github.com/eloom13/Fullstack-Gaming-Shopping-Cart/assets/116904225/c1da3e22-977d-489c-9641-151c3d06bd73)" alt="Material Bread logo">
 </p>
 
 
