@@ -47,7 +47,8 @@ The topic of my graduation project in 2022 is a web application for the sale of 
 * [![Bootstrap][Bootstrap.com]][Bootstrap-url]
 * [![JAVA][JAVA.com]][JAVA-url]
 * [![MYSQL][MYSQL.com]][MYSQL-url]
-
+* [![VS][VS.com]][VS-url]
+* [![Eclipse][Eclipse.com]][Eclipse-url]
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 
@@ -199,4 +200,8 @@ Use this space to list resources you find helpful and would like to give credit 
 [JAVA-url]: https://www.java.com/en/
 [MYSQL.com]: https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white
 [MYSQL-url]: https://www.mysql.com/
+[VS.com]: https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white
+[VS-url]: https://code.visualstudio.com/
+[Eclipse.com]: https://img.shields.io/badge/Eclipse-2C2255?style=for-the-badge&logo=eclipse&logoColor=white
+[Eclipse-url]: [https://code.visualstudio.com/](https://www.eclipse.org/)https://www.eclipse.org/
 
