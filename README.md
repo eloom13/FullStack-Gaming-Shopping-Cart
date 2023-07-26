@@ -45,6 +45,7 @@ This section should list any major frameworks/libraries used to bootstrap your p
 
 * [![HTML][HTML.com]][HTML-url]
 * [![CSS][CSS.com]][CSS-url]
+* [![Javascript][Javascript.com]][Javascript-url]
 * [![Bootstrap][Bootstrap.com]][Bootstrap-url]
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
@@ -190,6 +191,8 @@ Use this space to list resources you find helpful and would like to give credit 
 [HTML-url]: https://html.com/
 [CSS.com]: https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white
 [CSS-url]: [https://html.com/](https://www.w3.org/Style/CSS/Overview.en.html)
+[Javascript.com]: https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E
+[Javascript-url]: https://www.javascript.com/
 [Bootstrap.com]: https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white
 [Bootstrap-url]: https://getbootstrap.com
 
