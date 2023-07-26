@@ -54,10 +54,10 @@ The topic of my graduation project in 2022 is a web application for the sale of 
 
 
 <!-- GETTING STARTED -->
-## Getting Started
+## Database - EER Diagaram
 
-This is an example of how you may give instructions on setting up your project locally.
-To get a local copy up and running follow these simple example steps.
+![Picture1](https://github.com/eloom13/Fullstack-Gaming-Shopping-Cart/assets/116904225/c1da3e22-977d-489c-9641-151c3d06bd73)
+
 
 ### Prerequisites
 
