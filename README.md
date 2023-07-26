@@ -1,4 +1,4 @@
-# Fullstack-Gaming-Shopping-Cart_GraduationProject
+# Fullstack-Gaming-Shopping-Cart
 
 <!-- TABLE OF CONTENTS -->
 <details>
