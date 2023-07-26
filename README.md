@@ -60,6 +60,7 @@ The topic of my graduation project in 2022 is a web application for the sale of 
 
 
 
+
 ## Creating Account
 ![Screenshot_1](https://github.com/eloom13/Fullstack-Gaming-Shopping-Cart/assets/116904225/4069303c-8925-47a9-bae8-8e7c4e3588b9)
 
