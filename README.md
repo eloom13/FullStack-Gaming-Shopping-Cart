@@ -58,7 +58,6 @@ The topic of my graduation project in 2022 is a web application for the sale of 
 
 ![Picture1](https://github.com/eloom13/Fullstack-Gaming-Shopping-Cart/assets/116904225/c1da3e22-977d-489c-9641-151c3d06bd73)
 
-
 ### Prerequisites
 
 This is an example of how to list things you need to use the software and how to install them.
