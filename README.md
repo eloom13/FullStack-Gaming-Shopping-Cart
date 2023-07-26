@@ -33,9 +33,7 @@
 
 ![Picture1](https://github.com/eloom13/Fullstack-Gaming-Shopping-Cart/assets/116904225/df9f4106-148e-434c-98c8-996e6b271059)
 
-Tema mog maturskog rada je web aplikacija za prodaju „Gaming opreme“. Glavna osobina ove web aplikacije je ta što posjeduje admistratorsku stranu i stranu za kupce. 
-Svi proizvodi se spremaju i kupe iz baze podataka (MySQL) kojom upravljaju admini same web-stranice. 
-Web aplikacija je rađena u programu Eclipse (back-end) i Visual Studiu (front-end).
+The topic of my graduation project in 2022 is a web application for the sale of "Gaming equipment". The main feature of this web application is that it has an admin side and a customer side. All products are saved and purchased from a database (MySQL) managed by the admins of the website itself. The web application was developed in Eclipse (back-end) and Visual Studio (front-end).
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
