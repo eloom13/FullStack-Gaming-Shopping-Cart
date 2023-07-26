@@ -43,7 +43,7 @@ The topic of my graduation project in 2022 is a web application for the sale of 
 
 This section should list any major frameworks/libraries used to bootstrap your project. Leave any add-ons/plugins for the acknowledgements section. Here are a few examples.
 
-* [![Bootstrap][HTML.com]][Bootstrap-url]
+* [![HTML][HTML.com]][Bootstrap-url]
 * [![Bootstrap][Bootstrap.com]][Bootstrap-url]
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
