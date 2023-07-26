@@ -47,6 +47,7 @@ This section should list any major frameworks/libraries used to bootstrap your p
 * [![CSS][CSS.com]][CSS-url]
 * [![Javascript][Javascript.com]][Javascript-url]
 * [![Bootstrap][Bootstrap.com]][Bootstrap-url]
+* [![MYSQL][MYSQL.com]][MYSQL-url]
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -195,4 +196,6 @@ Use this space to list resources you find helpful and would like to give credit 
 [Javascript-url]: https://www.javascript.com/
 [Bootstrap.com]: https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white
 [Bootstrap-url]: https://getbootstrap.com
+[MYSQL.com]: https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white
+[MYSQL-url]: https://www.mysql.com/
 
