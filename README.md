@@ -55,7 +55,7 @@ The topic of my graduation project in 2022 is a web application for the sale of 
 ## Database - EER Diagaram
 
 <p align="center">
-  <img  width="552" height="392" src="https://github.com/eloom13/Fullstack-Gaming-Shopping-Cart/assets/116904225/af5250da-fb99-432c-b5a9-60fbfc7d4975">
+  <img  src="https://github.com/eloom13/FullStack-Gaming-Shopping-Cart/blob/main/readme_images/2.png">
 </p>
 
 
