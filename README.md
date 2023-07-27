@@ -88,6 +88,12 @@ It also has the possibility of insight into the number of users and their orders
 <p align="center">
   <img src="https://github.com/eloom13/FullStack-Gaming-Shopping-Cart/blob/main/readme_images/6.png">
 </p>
+<p align="left">
+  <img src="https://github.com/eloom13/FullStack-Gaming-Shopping-Cart/blob/main/readme_images/7.png">
+</p>
+<p align="right">
+  <img src="https://github.com/eloom13/FullStack-Gaming-Shopping-Cart/blob/main/readme_images/8.png">
+</p>
 
 <!-- ROADMAP -->
 ## Roadmap
