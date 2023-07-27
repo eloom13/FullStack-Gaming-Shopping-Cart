@@ -82,7 +82,7 @@ The "userType" column serves to divide users into ordinary users and those who a
 
 
 <!-- ADMIN EXAMPLES -->
-## Admin
+## Admin Page
 Admin is the form used by the administrator to add, modify, delete products and categories and had an insight into the quantity themselves. 
 It also has the possibility of insight into the number of users and their orders.
 <p align="center">
