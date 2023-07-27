@@ -81,16 +81,13 @@ The "userType" column serves to divide users into ordinary users and those who a
 
 
 
-<!-- USAGE EXAMPLES -->
-## Usage
-
-Use this space to show useful examples of how a project can be used. Additional screenshots, code examples and demos work well in this space. You may also link to more resources.
-
-_For more examples, please refer to the [Documentation](https://example.com)_
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
-
-
+<!-- ADMIN EXAMPLES -->
+## Admin
+Admin is the form used by the administrator to add, modify, delete products and categories and had an insight into the quantity themselves. 
+It also has the possibility of insight into the number of users and their orders.
+<p align="center">
+  <img src="https://github.com/eloom13/FullStack-Gaming-Shopping-Cart/blob/main/readme_images/6.png">
+</p>
 
 <!-- ROADMAP -->
 ## Roadmap
