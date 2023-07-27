@@ -102,7 +102,7 @@ It also has the possibility of insight into the number of users and their orders
 <p align="center">
   <img src="https://github.com/eloom13/FullStack-Gaming-Shopping-Cart/blob/main/readme_images/10.png">
 </p>
-## Add Categories and Products details...
+### Add Categories and Products details...
 </p>
 <p align="center">
   <img src="https://github.com/eloom13/FullStack-Gaming-Shopping-Cart/blob/main/readme_images/11.png">
