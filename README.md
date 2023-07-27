@@ -72,8 +72,11 @@ The topic of my graduation project in 2022 is a web application for the sale of 
   <img src="https://github.com/eloom13/FullStack-Gaming-Shopping-Cart/blob/main/readme_images/4..png">
 </p>
 
+For security reasons, the code is in "Hash code". The "userType" column serves to divide users into ordinary users and those who are administrators of the application.
 
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
+<p align="center">
+  <img src="https://github.com/eloom13/FullStack-Gaming-Shopping-Cart/blob/main/readme_images/5.png">
+</p>
 
 
 
