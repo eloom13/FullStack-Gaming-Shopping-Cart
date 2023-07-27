@@ -116,7 +116,9 @@ It also has the possibility of insight into the number of users and their orders
 <p align="center">
   <img src="https://github.com/eloom13/FullStack-Gaming-Shopping-Cart/blob/main/readme_images/13.png">
 </p>
+
 If the customer ordered this item that he added to the cart, he would receive the following email:
+
 <p align="center">
   <img src="https://github.com/eloom13/FullStack-Gaming-Shopping-Cart/blob/main/readme_images/14.png">
 </p>
