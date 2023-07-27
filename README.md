@@ -31,7 +31,7 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-![Picture1](https://github.com/eloom13/Fullstack-Gaming-Shopping-Cart/assets/116904225/df9f4106-148e-434c-98c8-996e6b271059)
+![Picture1](hthttps://github.com/eloom13/FullStack-Gaming-Shopping-Cart/blob/main/readme_images/1..png)
 
 The topic of my graduation project in 2022 is a web application for the sale of "Gaming equipment". The main feature of this web application is that it has an admin side and a customer side. All products are saved and purchased from a database (MySQL) managed by the admins of the website itself. The web application was developed in Eclipse (back-end) and Visual Studio (front-end).
 
