@@ -35,8 +35,6 @@
 
 The topic of my graduation project in 2022 is a web application for the sale of "Gaming equipment". The main feature of this web application is that it has an admin side and a customer side. All products are saved and purchased from a database (MySQL) managed by the admins of the website itself. The web application was developed in Eclipse (back-end) and Visual Studio (front-end).
 
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
-
 
 
 ### Built With
@@ -49,7 +47,7 @@ The topic of my graduation project in 2022 is a web application for the sale of 
 * [![MYSQL][MYSQL.com]][MYSQL-url]
 * [![VS][VS.com]][VS-url]
 * [![Eclipse][Eclipse.com]][Eclipse-url]
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
 
 
 
@@ -64,7 +62,8 @@ The topic of my graduation project in 2022 is a web application for the sale of 
 
 
 ## Creating Account
-![Screenshot_1](https://github.com/eloom13/Fullstack-Gaming-Shopping-Cart/assets/116904225/4069303c-8925-47a9-bae8-8e7c4e3588b9)
+<p align="center">
+  <img  width="552" height="392" src="https://github.com/eloom13/Fullstack-Gaming-Shopping-Cart/assets/116904225/c468c478-2ed4-4c81-8401-f910819df5e4"></p>
 
 If your registration is successful you will get automatic EMAIL.
 
