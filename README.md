@@ -60,7 +60,6 @@ The topic of my graduation project in 2022 is a web application for the sale of 
 
 
 
-
 ## Creating Account
 <p align="center">
   <img src="https://github.com/eloom13/FullStack-Gaming-Shopping-Cart/blob/main/readme_images/3.png">
@@ -113,37 +112,16 @@ It also has the possibility of insight into the number of users and their orders
 </p>
 
 <!-- ROADMAP -->
-## Roadmap
-
-- [x] Add Changelog
-- [x] Add back to top links
-- [ ] Add Additional Templates w/ Examples
-- [ ] Add "components" document to easily copy & paste sections of the readme
-- [ ] Multi-language Support
-    - [ ] Chinese
-    - [ ] Spanish
-
-See the [open issues](https://github.com/othneildrew/Best-README-Template/issues) for a full list of proposed features (and known issues).
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
+## Customer Page
+<p align="center">
+  <img src="https://github.com/eloom13/FullStack-Gaming-Shopping-Cart/blob/main/readme_images/13.png">
+</p>
+If the customer ordered this item that he added to the cart, he would receive the following email:
+<p align="center">
+  <img src="https://github.com/eloom13/FullStack-Gaming-Shopping-Cart/blob/main/readme_images/14.png">
+</p>
 
 
-
-<!-- CONTRIBUTING -->
-## Contributing
-
-Contributions are what make the open source community such an amazing place to learn, inspire, and create. Any contributions you make are **greatly appreciated**.
-
-If you have a suggestion that would make this better, please fork the repo and create a pull request. You can also simply open an issue with the tag "enhancement".
-Don't forget to give the project a star! Thanks again!
-
-1. Fork the Project
-2. Create your Feature Branch (`git checkout -b feature/AmazingFeature`)
-3. Commit your Changes (`git commit -m 'Add some AmazingFeature'`)
-4. Push to the Branch (`git push origin feature/AmazingFeature`)
-5. Open a Pull Request
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 
 
