@@ -73,7 +73,7 @@ The topic of my graduation project in 2022 is a web application for the sale of 
 </p>
 
 For security reasons, the code is in "Hash code". 
-###The "userType"### column serves to divide users into ordinary users and those who are administrators of the application.
+The ###"userType" column serves to divide users into ordinary users and those who are administrators of the application.
 
 <p align="center">
   <img src="https://github.com/eloom13/FullStack-Gaming-Shopping-Cart/blob/main/readme_images/5.png">
