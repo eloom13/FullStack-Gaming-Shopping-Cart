@@ -63,7 +63,7 @@ The topic of my graduation project in 2022 is a web application for the sale of 
 
 ## Creating Account
 <p align="center">
-  <img  width="300" height="500" src="https://github.com/eloom13/Fullstack-Gaming-Shopping-Cart/assets/116904225/c468c478-2ed4-4c81-8401-f910819df5e4"></p>
+  <img src="https://github.com/eloom13/FullStack-Gaming-Shopping-Cart/blob/main/readme_images/3.png"></p>
 
 If your registration is successful you will get an automatic EMAIL.
 
